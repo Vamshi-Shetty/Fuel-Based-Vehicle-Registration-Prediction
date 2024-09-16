@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.ensemble import RandomForestRegressor
+import os  # Import os to access environment variables
 
 app = Flask(__name__)
 
@@ -46,6 +47,6 @@ def predict():
 def analytics():
     return render_template('analytics.html')
 
-
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))  # Use the PORT environment variable or default to 5000
+    app.run(host='0.0.0.0', port=port, debug=True)
