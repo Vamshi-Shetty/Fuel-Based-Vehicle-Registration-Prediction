@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,date,state_name,state_code,office_name,office_code,type,category,registrations
 172985,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,446
 172994,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,626
@@ -1224,3 +1225,1231 @@ id,date,state_name,state_code,office_name,office_code,type,category,registration
 193810,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,77
 193819,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,71
 193828,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,89
+=======
+id,date,state_name,state_code,office_name,office_code,type,category,registrations
+172985,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,446
+172994,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,626
+173003,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,589
+173011,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,362
+173020,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,290
+173028,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,496
+173037,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,610
+173046,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,530
+173056,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,506
+173064,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,812
+173073,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,614
+173082,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,585
+173091,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Cng Only,Fuel,415
+173368,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,305
+173377,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,624
+173385,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,630
+173394,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,319
+173403,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,291
+173411,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,591
+173421,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,551
+173430,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,418
+173439,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,412
+173448,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,617
+173457,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,617
+173466,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,558
+173475,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Cng Only,Fuel,442
+173733,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,94
+173741,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,142
+173749,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,64
+173757,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,96
+173766,01-01-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,80
+173773,01-07-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,123
+173780,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,143
+173789,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,93
+173798,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,110
+173807,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,107
+173816,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,108
+173824,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,101
+173832,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Cng Only,Fuel,80
+174094,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,232
+174103,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,329
+174111,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,186
+174120,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,252
+174129,01-01-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,198
+174136,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,252
+174144,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,409
+174153,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,300
+174162,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,315
+174171,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,270
+174180,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,407
+174189,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,359
+174198,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Cng Only,Fuel,164
+174457,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,339
+174465,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,368
+174473,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,467
+174482,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,367
+174490,01-01-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,308
+174497,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,358
+174505,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,583
+174514,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,459
+174522,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,476
+174531,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,504
+174539,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,456
+174548,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,427
+174557,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Cng Only,Fuel,454
+176061,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,3
+176069,01-08-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,4
+176076,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,4
+176084,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,2
+176092,01-01-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,1
+176098,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,2
+176106,01-06-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,5
+176113,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,4
+176121,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,6
+176129,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,6
+176137,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,2
+176145,01-09-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Cng Only,Fuel,10
+178818,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,1
+178827,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,4
+178835,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,8
+178843,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,7
+178851,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,3
+178859,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,3
+178868,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,4
+178877,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,4
+178886,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,4
+178895,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,16
+178904,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,2
+178913,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,3
+178922,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Cng Only,Fuel,6
+180013,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,30
+180022,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,38
+180030,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,32
+180039,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,46
+180048,01-01-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,33
+180055,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,49
+180063,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,49
+180071,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,35
+180079,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,24
+180088,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,43
+180097,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,39
+180106,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,41
+180115,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Cng Only,Fuel,41
+183173,01-04-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,51
+183180,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,70
+183189,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,96
+183197,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,56
+183206,01-01-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,52
+183213,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,48
+183221,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,59
+183230,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,56
+183238,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,62
+183247,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,119
+183256,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,128
+183265,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,109
+183274,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Cng Only,Fuel,57
+185282,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,10
+185290,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,16
+185298,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,27
+185307,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,3
+185316,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,11
+185324,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,12
+185334,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,19
+185342,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,20
+185350,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,11
+185358,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,18
+185368,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,8
+185377,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,10
+185386,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Cng Only,Fuel,15
+193718,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,5
+193726,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,11
+193734,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,9
+193743,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,10
+193751,01-01-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,8
+193758,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,6
+193766,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,10
+193775,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,4
+193783,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,6
+193792,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,13
+193802,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,2
+193811,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,11
+193820,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Cng Only,Fuel,7
+172986,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,616
+172995,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,704
+173004,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,684
+173012,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,554
+173021,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,611
+173029,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,687
+173038,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,494
+173047,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,929
+173057,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,528
+173065,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,465
+173074,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,616
+173083,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,532
+173092,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Diesel,Fuel,711
+173369,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,567
+173378,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,545
+173386,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,487
+173395,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,481
+173404,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,503
+173412,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,610
+173422,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,566
+173431,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,818
+173440,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,512
+173449,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,686
+173458,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,599
+173467,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,481
+173476,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Diesel,Fuel,472
+173734,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,487
+173742,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,352
+173750,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,399
+173758,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,487
+173767,01-01-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,401
+173774,01-07-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,357
+173781,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,433
+173790,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,335
+173799,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,434
+173808,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,387
+173817,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,383
+173825,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,343
+173833,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Diesel,Fuel,321
+174095,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,582
+174104,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,597
+174112,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,545
+174121,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,546
+174130,01-01-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,760
+174137,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,614
+174145,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,748
+174154,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,612
+174163,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,770
+174172,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,605
+174181,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,822
+174190,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,677
+174199,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Diesel,Fuel,631
+174458,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,354
+174466,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,402
+174474,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,314
+174483,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,322
+174491,01-01-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,382
+174498,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,419
+174506,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,540
+174515,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,511
+174523,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,327
+174532,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,379
+174540,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,404
+174549,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,348
+174558,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Diesel,Fuel,296
+176062,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,167
+176070,01-08-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,127
+176077,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,106
+176085,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,124
+176093,01-01-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,144
+176099,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,110
+176107,01-06-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,120
+176114,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,122
+176122,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,134
+176130,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,92
+176138,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,148
+176146,01-09-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,145
+176152,01-01-2024,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Diesel,Fuel,77
+178819,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,119
+178828,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,122
+178836,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,114
+178844,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,131
+178852,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,148
+178860,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,106
+178869,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,144
+178878,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,136
+178887,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,120
+178896,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,117
+178905,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,123
+178914,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,88
+178923,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Diesel,Fuel,128
+180014,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,836
+180023,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,874
+180031,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,729
+180040,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,663
+180049,01-01-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,726
+180056,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,716
+180064,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,921
+180072,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,952
+180080,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,835
+180089,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,679
+180098,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,825
+180107,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,866
+180116,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Diesel,Fuel,629
+183174,01-04-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,224
+183181,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,191
+183190,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,176
+183198,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,254
+183207,01-01-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,261
+183214,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,185
+183222,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,223
+183231,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,220
+183239,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,212
+183248,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,226
+183257,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,209
+183266,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,202
+183275,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Diesel,Fuel,142
+185283,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,390
+185291,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,589
+185299,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,527
+185308,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,401
+185317,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,414
+185325,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,476
+185335,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,466
+185343,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,442
+185351,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,454
+185359,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,450
+185369,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,599
+185378,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,504
+185387,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel,Fuel,309
+191712,01-08-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,23
+191713,01-12-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,47
+191714,01-02-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,15
+191717,01-06-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,50
+191719,01-03-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,5
+191720,01-05-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,23
+191721,01-11-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,28
+191722,01-10-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,70
+191723,01-01-2024,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Diesel,Fuel,5
+193719,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,287
+193727,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,232
+193735,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,243
+193744,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,179
+193752,01-01-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,226
+193759,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,226
+193767,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,254
+193776,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,259
+193784,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,243
+193793,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,222
+193803,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,224
+193812,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,229
+193821,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Diesel,Fuel,200
+172987,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,2
+172996,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,5
+173005,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,5
+173013,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,3
+173022,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,2
+173030,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,1
+173039,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,1
+173048,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,1
+173066,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,3
+173075,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,3
+173084,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,9
+173093,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Diesel/Hybrid,Fuel,5
+173370,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,2
+173387,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,4
+173396,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,3
+173405,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,2
+173413,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,1
+173423,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,1
+173432,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,1
+173441,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,6
+173450,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,9
+173459,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,9
+173468,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,1
+173477,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Diesel/Hybrid,Fuel,3
+173751,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,3
+173759,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,1
+173768,01-01-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,3
+173782,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,1
+173791,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,1
+173800,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,3
+173809,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,8
+173818,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,3
+173826,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,3
+173834,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Diesel/Hybrid,Fuel,5
+174096,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,1
+174113,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,5
+174122,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,2
+174131,01-01-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,5
+174146,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,3
+174155,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,2
+174164,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,5
+174173,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,2
+174182,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,9
+174191,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,7
+174200,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Diesel/Hybrid,Fuel,2
+174475,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel/Hybrid,Fuel,1
+174507,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel/Hybrid,Fuel,2
+174524,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel/Hybrid,Fuel,2
+174541,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel/Hybrid,Fuel,3
+174550,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Diesel/Hybrid,Fuel,1
+180032,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Diesel/Hybrid,Fuel,3
+180041,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Diesel/Hybrid,Fuel,1
+180081,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Diesel/Hybrid,Fuel,1
+180090,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Diesel/Hybrid,Fuel,1
+180099,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Diesel/Hybrid,Fuel,2
+180108,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Diesel/Hybrid,Fuel,2
+183199,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel/Hybrid,Fuel,1
+183215,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel/Hybrid,Fuel,2
+183249,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel/Hybrid,Fuel,2
+183258,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Diesel/Hybrid,Fuel,2
+185300,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel/Hybrid,Fuel,12
+185318,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel/Hybrid,Fuel,1
+185326,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel/Hybrid,Fuel,2
+185360,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel/Hybrid,Fuel,2
+185370,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel/Hybrid,Fuel,3
+185379,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Diesel/Hybrid,Fuel,1
+193745,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel/Hybrid,Fuel,1
+193768,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel/Hybrid,Fuel,1
+193785,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel/Hybrid,Fuel,2
+193794,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel/Hybrid,Fuel,1
+193804,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel/Hybrid,Fuel,3
+193813,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Diesel/Hybrid,Fuel,1
+193822,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Diesel/Hybrid,Fuel,1
+172988,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,827
+172997,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,655
+173006,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,601
+173014,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,722
+173023,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,787
+173031,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,640
+173040,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,515
+173049,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,960
+173058,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,1168
+173067,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,684
+173076,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,674
+173085,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,484
+173094,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Electric(Bov),Fuel,717
+173371,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,864
+173379,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,977
+173388,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,761
+173397,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,767
+173406,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,705
+173414,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,844
+173424,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,724
+173433,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,1039
+173442,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,1181
+173451,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,1230
+173460,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,1179
+173469,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,726
+173478,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Electric(Bov),Fuel,730
+173735,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,821
+173743,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,684
+173752,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,613
+173760,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,892
+173769,01-01-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,679
+173775,01-07-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,742
+173783,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,622
+173792,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,1104
+173801,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,1387
+173810,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,1804
+173819,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,644
+173827,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,620
+173835,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Electric(Bov),Fuel,664
+174097,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1383
+174105,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1460
+174114,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1326
+174123,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1562
+174132,01-01-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1761
+174138,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1658
+174147,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1277
+174156,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,2137
+174165,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,2636
+174174,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1425
+174183,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1477
+174192,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,2229
+174201,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Electric(Bov),Fuel,1164
+174459,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,736
+174467,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,840
+174476,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,725
+174484,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,875
+174492,01-01-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,771
+174499,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,862
+174508,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,693
+174516,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,1157
+174525,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,1454
+174533,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,1033
+174542,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,873
+174551,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,832
+174559,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Electric(Bov),Fuel,782
+176063,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,46
+176071,01-08-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,388
+176078,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,106
+176086,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,40
+176094,01-01-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,72
+176100,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,87
+176108,01-06-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,77
+176115,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,81
+176123,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,120
+176131,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,120
+176139,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,695
+176147,01-09-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,346
+176153,01-01-2024,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Electric(Bov),Fuel,121
+178820,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,55
+178829,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,58
+178837,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,93
+178845,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,55
+178853,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,34
+178861,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,57
+178870,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,46
+178879,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,83
+178888,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,72
+178897,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,70
+178906,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,66
+178915,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,43
+178924,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Electric(Bov),Fuel,57
+180015,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,628
+180024,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,588
+180033,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,954
+180042,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,768
+180050,01-01-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,932
+180057,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,700
+180065,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,435
+180073,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,983
+180082,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,975
+180091,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,844
+180100,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,775
+180109,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,619
+180117,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Electric(Bov),Fuel,608
+183175,01-04-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,282
+183182,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,379
+183191,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,255
+183200,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,350
+183208,01-01-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,268
+183216,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,371
+183223,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,322
+183232,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,479
+183240,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,668
+183250,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,383
+183259,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,294
+183267,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,295
+183276,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Electric(Bov),Fuel,211
+185284,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,476
+185292,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,556
+185301,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,552
+185309,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,441
+185319,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,362
+185327,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,550
+185336,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,403
+185344,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,514
+185352,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,890
+185361,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,558
+185371,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,716
+185380,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,485
+185388,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Electric(Bov),Fuel,401
+193720,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,430
+193728,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,484
+193736,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,647
+193746,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,478
+193753,01-01-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,396
+193760,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,481
+193769,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,424
+193777,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,588
+193786,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,937
+193795,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,1142
+193805,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,736
+193814,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,672
+193823,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Electric(Bov),Fuel,427
+172989,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,3
+172998,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,2
+173015,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,4
+173024,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,1
+173032,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,1
+173041,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,3
+173050,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,1
+173059,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,3
+173068,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,9
+173077,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,7
+173086,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,4
+173095,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Lpg Only,Fuel,4
+173372,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,7
+173380,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,6
+173389,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,13
+173398,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,4
+173407,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,2
+173415,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,2
+173425,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,6
+173434,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,10
+173443,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,1
+173452,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,14
+173461,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,12
+173470,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,17
+173479,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Lpg Only,Fuel,9
+173736,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,1
+173744,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,1
+173761,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,1
+173784,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,2
+173793,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,1
+173802,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,1
+173811,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,1
+173836,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Lpg Only,Fuel,1
+174098,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,1
+174106,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,4
+174115,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,1
+174124,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,1
+174139,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,1
+174148,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,1
+174157,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,1
+174166,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,2
+174175,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,2
+174184,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,5
+174193,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,5
+174202,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Lpg Only,Fuel,2
+174460,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,3
+174468,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,2
+174477,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,8
+174485,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,3
+174493,01-01-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,1
+174500,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,2
+174509,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,1
+174517,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,10
+174526,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,3
+174534,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,10
+174543,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,3
+174552,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,8
+174560,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Lpg Only,Fuel,3
+178821,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,7
+178846,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,6
+178854,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,2
+178862,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,1
+178871,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,2
+178880,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,2
+178889,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,3
+178898,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,3
+178907,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,1
+178916,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Lpg Only,Fuel,2
+180016,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Lpg Only,Fuel,1
+183183,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,2
+183192,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,1
+183224,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,1
+183241,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,1
+183251,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,1
+183260,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,1
+183268,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,1
+183277,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Lpg Only,Fuel,2
+185310,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Lpg Only,Fuel,1
+185328,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Lpg Only,Fuel,1
+185362,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Lpg Only,Fuel,1
+185389,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Lpg Only,Fuel,1
+193737,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Lpg Only,Fuel,1
+193796,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Lpg Only,Fuel,2
+173051,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Not Applicable,Fuel,1
+173416,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Not Applicable,Fuel,1
+176064,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,1
+176079,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,1
+176087,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,1
+176101,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,1
+176116,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,7
+176124,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,5
+176132,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,1
+176140,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,3
+176154,01-01-2024,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Not Applicable,Fuel,1
+178822,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,19
+178830,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,7
+178838,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,13
+178847,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,19
+178855,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,12
+178863,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,5
+178872,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,13
+178881,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,18
+178890,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,22
+178899,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,6
+178908,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,8
+178917,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,6
+178925,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Not Applicable,Fuel,14
+180017,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,5
+180025,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,21
+180034,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,48
+180043,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,36
+180051,01-01-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,14
+180058,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,17
+180066,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,4
+180074,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,12
+180083,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,4
+180092,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,14
+180101,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,82
+180110,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,1
+180118,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Not Applicable,Fuel,2
+183184,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Not Applicable,Fuel,20
+183201,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Not Applicable,Fuel,10
+183209,01-01-2023,Karnataka,29,Jnanabharathi Rto,KA41,Not Applicable,Fuel,10
+183225,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Not Applicable,Fuel,10
+183233,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Not Applicable,Fuel,10
+183242,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Not Applicable,Fuel,10
+183269,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Not Applicable,Fuel,10
+185285,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,11
+185293,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,5
+185302,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,21
+185311,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,9
+185320,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,5
+185329,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,8
+185337,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,4
+185345,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,13
+185353,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,5
+185363,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,11
+185372,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,16
+185381,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,10
+185390,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Not Applicable,Fuel,8
+193721,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,13
+193729,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,10
+193738,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,18
+193747,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,8
+193754,01-01-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,12
+193761,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,6
+193770,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,7
+193778,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,9
+193787,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,8
+193797,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,8
+193806,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,10
+193815,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,10
+193824,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Not Applicable,Fuel,8
+172990,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5413
+172999,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,6910
+173007,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,4805
+173016,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5350
+173025,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5410
+173033,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,6580
+173042,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,6561
+173052,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,6191
+173060,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5521
+173069,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5827
+173078,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5952
+173087,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5848
+173096,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Petrol,Fuel,5383
+173373,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,5413
+173381,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,6340
+173390,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,4557
+173399,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,5369
+173408,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,5926
+173417,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,6144
+173426,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,6436
+173435,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,6171
+173444,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,5387
+173453,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,5448
+173462,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,5600
+173471,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,5530
+173480,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Petrol,Fuel,4915
+173737,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,3555
+173745,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,4396
+173753,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,3047
+173762,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,3624
+173770,01-01-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,4015
+173776,01-07-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,3663
+173785,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,4142
+173794,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,3918
+173803,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,3731
+173812,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,4118
+173820,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,4029
+173828,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,4164
+173837,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Petrol,Fuel,3890
+174099,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,6160
+174107,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,7229
+174116,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,5289
+174125,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,6484
+174133,01-01-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,7941
+174140,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,6727
+174149,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,7421
+174158,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,6835
+174167,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,6306
+174176,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,7477
+174185,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,7488
+174194,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,7384
+174203,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Petrol,Fuel,6405
+174461,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,3765
+174469,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4586
+174478,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,3145
+174486,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4023
+174494,01-01-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4215
+174501,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,3995
+174510,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4571
+174518,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4259
+174527,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,3795
+174535,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4846
+174544,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4775
+174553,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4467
+174561,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Petrol,Fuel,4068
+176065,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,407
+176072,01-08-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,455
+176080,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,346
+176088,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,429
+176095,01-01-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,550
+176102,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,358
+176109,01-06-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,479
+176117,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,471
+176125,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,380
+176133,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,568
+176141,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,569
+176148,01-09-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,530
+176155,01-01-2024,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol,Fuel,385
+178823,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,530
+178831,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,640
+178839,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,478
+178848,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,580
+178856,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,671
+178864,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,517
+178873,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,630
+178882,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,815
+178891,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,565
+178900,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,753
+178909,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,697
+178918,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,656
+178926,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Petrol,Fuel,554
+180018,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4483
+180026,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4475
+180035,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,3501
+180044,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,3947
+180052,01-01-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4434
+180059,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4213
+180067,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4486
+180075,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4756
+180084,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,3970
+180093,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4420
+180102,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4273
+180111,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,4114
+180119,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Petrol,Fuel,3411
+183176,01-04-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1615
+183185,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,2274
+183193,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1332
+183202,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1832
+183210,01-01-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,2187
+183217,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1739
+183226,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1986
+183234,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1933
+183243,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1739
+183252,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,2058
+183261,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1916
+183270,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1876
+183278,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Petrol,Fuel,1830
+185286,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,3900
+185294,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4785
+185303,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,3910
+185312,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,3951
+185321,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4254
+185330,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4331
+185338,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4874
+185346,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4384
+185354,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4039
+185364,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4917
+185373,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4830
+185382,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,4840
+185391,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol,Fuel,3559
+191715,01-07-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Petrol,Fuel,3
+191718,01-06-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Petrol,Fuel,3
+193722,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,1801
+193730,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,2204
+193739,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,1741
+193748,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,1855
+193755,01-01-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,1959
+193762,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,1988
+193771,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,2239
+193779,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,2033
+193788,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,1742
+193798,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,2557
+193807,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,2326
+193816,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,2229
+193825,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Petrol,Fuel,2088
+172991,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,62
+173000,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,89
+173008,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,58
+173017,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,56
+173026,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,64
+173034,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,81
+173043,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,88
+173053,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,72
+173061,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,57
+173070,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,94
+173079,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,101
+173088,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,64
+173097,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Cng,Fuel,143
+173374,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,121
+173382,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,113
+173391,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,97
+173400,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,68
+173409,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,163
+173418,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,106
+173427,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,119
+173436,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,123
+173445,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,130
+173454,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,89
+173463,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,143
+173472,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,100
+173481,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Cng,Fuel,191
+173738,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,82
+173746,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,195
+173754,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,138
+173763,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,52
+173771,01-01-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,139
+173777,01-07-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,115
+173786,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,153
+173795,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,86
+173804,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,109
+173813,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,148
+173821,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,157
+173829,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,166
+173838,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Cng,Fuel,292
+174100,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,146
+174108,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,430
+174117,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,274
+174126,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,103
+174134,01-01-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,320
+174141,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,304
+174150,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,255
+174159,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,163
+174168,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,249
+174177,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,388
+174186,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,362
+174195,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,257
+174204,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Cng,Fuel,385
+174462,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,45
+174470,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,67
+174479,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,28
+174487,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,49
+174495,01-01-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,69
+174502,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,40
+174511,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,66
+174519,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,46
+174528,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,70
+174536,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,40
+174545,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,50
+174554,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,47
+174562,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Cng,Fuel,57
+176066,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,5
+176073,01-08-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,7
+176081,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,3
+176089,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,2
+176096,01-01-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,5
+176103,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,10
+176110,01-06-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,13
+176118,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,3
+176126,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,8
+176134,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,3
+176142,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,9
+176149,01-09-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,9
+176156,01-01-2024,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Cng,Fuel,3
+178824,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,10
+178832,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,10
+178840,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,5
+178849,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,4
+178857,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,10
+178865,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,9
+178874,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,7
+178883,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,1
+178892,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,6
+178901,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,2
+178910,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,9
+178919,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,7
+178927,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Petrol/Cng,Fuel,7
+180019,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,32
+180027,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,90
+180036,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,48
+180045,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,45
+180053,01-01-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,108
+180060,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,65
+180068,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,86
+180076,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,53
+180085,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,43
+180094,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,58
+180103,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,59
+180112,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,63
+180120,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Petrol/Cng,Fuel,92
+183177,01-04-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,26
+183186,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,85
+183194,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,47
+183203,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,17
+183211,01-01-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,51
+183218,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,58
+183227,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,46
+183235,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,26
+183244,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,40
+183253,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,58
+183262,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,55
+183271,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,71
+183279,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Cng,Fuel,70
+185287,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,42
+185295,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,70
+185304,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,51
+185313,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,33
+185322,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,53
+185331,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,68
+185339,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,61
+185347,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,60
+185355,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,68
+185365,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,51
+185374,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,49
+185383,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,57
+185392,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Cng,Fuel,87
+193723,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,35
+193731,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,79
+193740,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,81
+193749,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,62
+193756,01-01-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,91
+193763,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,65
+193772,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,52
+193780,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,38
+193789,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,63
+193799,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,94
+193808,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,64
+193817,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,116
+193826,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Petrol/Cng,Fuel,158
+172992,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,157
+173001,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,309
+173009,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,191
+173018,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,12
+173035,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,278
+173044,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,304
+173054,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,135
+173062,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,193
+173071,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,322
+173080,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,312
+173089,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,290
+173098,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Ethanol,Fuel,251
+173375,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,134
+173383,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,236
+173392,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,174
+173401,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,6
+173419,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,195
+173428,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,196
+173437,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,93
+173446,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,140
+173455,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,222
+173464,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,262
+173473,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,203
+173482,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Ethanol,Fuel,213
+173739,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,129
+173747,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,209
+173755,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,127
+173764,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,21
+173778,01-07-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,186
+173787,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,191
+173796,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,100
+173805,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,142
+173814,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,193
+173822,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,174
+173830,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,239
+173839,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Ethanol,Fuel,151
+174101,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,132
+174109,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,255
+174118,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,197
+174127,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,7
+174142,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,180
+174151,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,206
+174160,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,116
+174169,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,145
+174178,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,348
+174187,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,304
+174196,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,253
+174205,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Ethanol,Fuel,221
+174463,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,93
+174471,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,242
+174480,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,165
+174488,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,1
+174503,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,142
+174512,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,177
+174520,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,91
+174529,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,131
+174537,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,227
+174546,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,261
+174555,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,234
+174563,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Ethanol,Fuel,216
+176067,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,34
+176074,01-08-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,66
+176082,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,48
+176090,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,1
+176104,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,42
+176111,01-06-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,48
+176119,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,19
+176127,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,54
+176135,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,69
+176143,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,88
+176150,01-09-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,51
+176157,01-01-2024,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Ethanol,Fuel,55
+178825,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,7
+178833,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,32
+178841,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,25
+178866,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,14
+178875,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,10
+178884,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,1
+178893,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,15
+178902,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,29
+178911,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,37
+178920,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,23
+178928,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Petrol/Ethanol,Fuel,22
+180020,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,122
+180028,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,262
+180037,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,186
+180046,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,1
+180061,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,242
+180069,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,235
+180077,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,79
+180086,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,188
+180095,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,217
+180104,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,246
+180113,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,270
+180121,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Petrol/Ethanol,Fuel,188
+183178,01-04-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,24
+183187,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,62
+183195,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,28
+183204,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,2
+183219,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,27
+183228,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,38
+183236,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,19
+183245,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,28
+183254,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,42
+183263,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,27
+183272,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,53
+183280,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Ethanol,Fuel,43
+185288,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,216
+185296,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,436
+185305,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,321
+185314,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,14
+185332,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,360
+185340,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,334
+185348,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,141
+185356,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,267
+185366,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,353
+185375,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,326
+185384,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,358
+185393,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Ethanol,Fuel,332
+193724,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,47
+193732,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,78
+193741,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,76
+193764,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,76
+193773,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,60
+193781,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,11
+193790,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,41
+193800,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,107
+193809,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,98
+193818,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,95
+193827,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Petrol/Ethanol,Fuel,97
+172993,01-04-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,241
+173002,01-08-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,337
+173010,01-12-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,282
+173019,01-02-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,280
+173027,01-01-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,204
+173036,01-07-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,251
+173045,01-06-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,194
+173055,01-03-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,410
+173063,01-05-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,185
+173072,01-11-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,216
+173081,01-10-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,223
+173090,01-09-2023,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,245
+173099,01-01-2024,Karnataka,29,Bengaluru Central Rto,KA1,Petrol/Hybrid,Fuel,258
+173376,01-04-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,323
+173384,01-08-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,321
+173393,01-12-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,282
+173402,01-02-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,318
+173410,01-01-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,280
+173420,01-07-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,323
+173429,01-06-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,298
+173438,01-03-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,454
+173447,01-05-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,243
+173456,01-11-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,367
+173465,01-10-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,271
+173474,01-09-2023,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,255
+173483,01-01-2024,Karnataka,29,Bengaluru East Rto,KA3,Petrol/Hybrid,Fuel,208
+173740,01-04-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,236
+173748,01-08-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,193
+173756,01-12-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,208
+173765,01-02-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,240
+173772,01-01-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,169
+173779,01-07-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,147
+173788,01-06-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,198
+173797,01-03-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,249
+173806,01-05-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,182
+173815,01-11-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,233
+173823,01-10-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,179
+173831,01-09-2023,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,166
+173840,01-01-2024,Karnataka,29,Bengaluru North Rto,KA4,Petrol/Hybrid,Fuel,211
+174102,01-04-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,259
+174110,01-08-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,302
+174119,01-12-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,199
+174128,01-02-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,376
+174135,01-01-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,311
+174143,01-07-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,241
+174152,01-06-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,336
+174161,01-03-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,387
+174170,01-05-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,275
+174179,01-11-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,255
+174188,01-10-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,341
+174197,01-09-2023,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,301
+174206,01-01-2024,Karnataka,29,Bengaluru South Rto,KA5,Petrol/Hybrid,Fuel,281
+174464,01-04-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,134
+174472,01-08-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,220
+174481,01-12-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,113
+174489,01-02-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,192
+174496,01-01-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,155
+174504,01-07-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,147
+174513,01-06-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,242
+174521,01-03-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,313
+174530,01-05-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,109
+174538,01-11-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,164
+174547,01-10-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,152
+174556,01-09-2023,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,133
+174564,01-01-2024,Karnataka,29,Bengaluru West Rto,KA2,Petrol/Hybrid,Fuel,156
+176068,01-04-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,8
+176075,01-08-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,9
+176083,01-12-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,7
+176091,01-02-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,14
+176097,01-01-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,13
+176105,01-07-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,9
+176112,01-06-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,3
+176120,01-03-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,16
+176128,01-05-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,1
+176136,01-11-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,11
+176144,01-10-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,2
+176151,01-09-2023,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,2
+176158,01-01-2024,Karnataka,29,"Chandapura, Bengaluru Rto",KA59,Petrol/Hybrid,Fuel,10
+178826,01-04-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,17
+178834,01-08-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,15
+178842,01-12-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,11
+178850,01-02-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,22
+178858,01-01-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,10
+178867,01-07-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,12
+178876,01-06-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,16
+178885,01-03-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,21
+178894,01-05-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,13
+178903,01-11-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,11
+178912,01-10-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,14
+178921,01-09-2023,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,13
+178929,01-01-2024,Karnataka,29,Devanahalli Arto,KA43,Petrol/Hybrid,Fuel,11
+180021,01-04-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,139
+180029,01-08-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,205
+180038,01-12-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,119
+180047,01-02-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,224
+180054,01-01-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,158
+180062,01-07-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,135
+180070,01-06-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,182
+180078,01-03-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,266
+180087,01-05-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,122
+180096,01-11-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,129
+180105,01-10-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,155
+180114,01-09-2023,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,156
+180122,01-01-2024,Karnataka,29,Electronic City Rto,KA51,Petrol/Hybrid,Fuel,124
+183179,01-04-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,63
+183188,01-08-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,72
+183196,01-12-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,39
+183205,01-02-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,115
+183212,01-01-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,86
+183220,01-07-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,42
+183229,01-06-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,64
+183237,01-03-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,106
+183246,01-05-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,70
+183255,01-11-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,62
+183264,01-10-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,59
+183273,01-09-2023,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,45
+183281,01-01-2024,Karnataka,29,Jnanabharathi Rto,KA41,Petrol/Hybrid,Fuel,65
+185289,01-04-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,89
+185297,01-08-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,157
+185306,01-12-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,84
+185315,01-02-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,123
+185323,01-01-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,85
+185333,01-07-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,72
+185341,01-06-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,76
+185349,01-03-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,123
+185357,01-05-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,61
+185367,01-11-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,121
+185376,01-10-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,104
+185385,01-09-2023,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,102
+185394,01-01-2024,Karnataka,29,Krishnarajapuram Rto,KA53,Petrol/Hybrid,Fuel,77
+191716,01-07-2023,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Petrol/Hybrid,Fuel,6
+193725,01-04-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,106
+193733,01-08-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,128
+193742,01-12-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,75
+193750,01-02-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,83
+193757,01-01-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,93
+193765,01-07-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,87
+193774,01-06-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,99
+193782,01-03-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,111
+193791,01-05-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,96
+193801,01-11-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,82
+193810,01-10-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,77
+193819,01-09-2023,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,71
+193828,01-01-2024,Karnataka,29,Yalahanka Rto,KA50,Petrol/Hybrid,Fuel,89
+>>>>>>> ff8206a (Resolve merge conflicts and add untracked files)
