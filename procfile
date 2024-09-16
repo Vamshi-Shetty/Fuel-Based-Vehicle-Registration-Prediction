@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 web: python app.py
-=======
-web: python app.py
->>>>>>> ff8206a (Resolve merge conflicts and add untracked files)
