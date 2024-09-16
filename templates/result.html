@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #1f1f1f, #292929);
+        }
+    
+        h1 {
+            color: #e0e0e0;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            text-align: center;
+            background: linear-gradient(45deg, #6200ea, #03dac6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    
+        .result-container {
+            background-color: #1e1e1e;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+        }
+    
+        p {
+            font-size: 1.2rem;
+            color: #e0e0e0;
+            margin: 10px 0;
+        }
+    
+        .prediction {
+            font-weight: bold;
+            color: #03dac6;
+            font-size: 1.5rem;
+        }
+    
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            text-decoration: none;
+            background-color: #6200ea;
+            color: white;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+            font-size: 1rem;
+        }
+    
+        a:hover {
+            background-color: #3700b3;
+        }
+    </style>
+    
+</head>
+<body>
+    <div class="result-container">
+        <h1>Prediction Result</h1>
+        <p>Year: {{ year }}</p>
+        <p>Month: {{ month }}</p>
+        <p>Office Code: {{ office_code }}</p>
+        <p>Fuel Type: {{ fuel_type }}</p>
+        <p class="prediction">Predicted Registrations: {{ prediction }}</p>
+        <a href="/">Back</a>
+    </div>
+</body>
+</html>

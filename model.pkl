@@ -1,0 +1,31 @@
+import pickle
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+import pandas as pd
+
+# Load your data
+df = pd.read_csv('your_dataset.csv')
+
+# Process your data (encoding, scaling, etc.)
+label_encoders = {
+    'office_code': LabelEncoder().fit(df['office_code']),
+    'type': LabelEncoder().fit(df['type'])
+}
+
+# Example of feature preparation
+X = df[['year', 'month', 'office_code', 'type']]
+y = df['registrations']
+
+# Assuming your model is trained here
+model = RandomForestRegressor()
+model.fit(X, y)
+
+# Save the model, scaler, and label encoders
+with open('model.pkl', 'wb') as file:
+    pickle.dump(model, file)
+
+with open('scaler.pkl', 'wb') as file:
+    pickle.dump(StandardScaler().fit(X), file)
+
+with open('label_encoder.pkl', 'wb') as file:
+    pickle.dump(label_encoders, file)

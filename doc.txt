@@ -1,0 +1,3 @@
+cd my_flask_app
+venv\Scripts\activate
+python app.py

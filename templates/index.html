@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Registration Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #1f1f1f, #292929);
+        }
+    
+        h1 {
+            color: #e0e0e0;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            text-align: center;
+            background: linear-gradient(45deg, #6200ea, #03dac6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    
+        h2 {
+            color: #e0e0e0;
+            font-size: 2rem;
+            margin-bottom: 20px;
+            text-align: center;
+            background: linear-gradient(45deg, #bb86fc, #03dac6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    
+        form {
+            background-color: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+        }
+    
+        label {
+            font-size: 1.1rem;
+            color: #e0e0e0;
+        }
+    
+        select, input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #333;
+            border-radius: 4px;
+            font-size: 1rem;
+            background-color: #333;
+            color: #e0e0e0;
+            transition: background-color 0.3s ease;
+        }
+    
+        select:focus, input[type="submit"]:hover {
+            background-color: #555;
+        }
+    
+        input[type="submit"] {
+            background-color: #03dac6;
+            color: #121212;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    
+        input[type="submit"]:hover {
+            background-color: #018786;
+        }
+    
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .button {
+            display: inline-flex;
+            align-items: center; /* Center align items vertically */
+            justify-content: center; /* Center align items horizontally */
+            margin-top: 20px;
+            padding: 10px 20px;
+            text-decoration: none;
+            background-color: #03dac6;
+            color: #121212;
+            font-weight: bold;
+            font-size: 1rem;
+            border-radius: 4px;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #018786;
+        }
+
+        .button-small {
+            font-size: 0.9rem;
+            background-color: #6200ea;
+            color: #ffffff;
+        }
+
+        .button-small:hover {
+            background-color: #3700b3;
+        }
+
+        .center-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h2>PES1PG23CA354</h2>
+        <h1>Vehicle Registration Prediction</h1>
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="year">Year:</label>
+                <select id="year" name="year" required onchange="updateMonthOptions()">
+                    <option value="">--Select--</option>
+                    <option value="2024">2024</option>
+                    <option value="2025">2025</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="month">Month:</label>
+                <select id="month" name="month" required>
+                    <!-- Months will be dynamically populated -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="office_code">Office Code:</label>
+                <select id="office_code" name="office_code" required>
+                    <option value="">--Select--</option>
+                    <option value="KA1">KA01 (Koramangala)</option>
+                    <option value="KA2">KA02 (Rajajinagar)</option>
+                    <option value="KA3">KA03 (Indiranagar)</option>
+                    <option value="KA4">KA04 (Yeshwanthpur)</option>
+                    <option value="KA5">KA05 (Jayanagar)</option>
+                    <option value="KA41">KA41 (Jnanabharati)</option>
+                    <option value="KA43">KA43 (Devanahalli)</option>
+                    <option value="KA50">KA50 (Yelahanka New Town)</option>
+                    <option value="KA51">KA51 (Chennakeshavanagar)</option>
+                    <option value="KA53">KA53 (K.R.Puram)</option>
+                    <option value="KA57">KA57 (Shanthinagar)</option>
+                    <option value="KA59">KA59 (Chandapura)</option>    
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="type">Fuel Type:</label>
+                <select id="type" name="type" required>
+                    <option value="">--Select--</option>
+                    <option value="Petrol">Petrol</option>
+                    <option value="Diesel">Diesel</option>
+                    <option value="Electric(Bov)">Electric</option>
+                    <option value="LPG Only">LPG</option>
+                    <option value="Cng Only">Cng</option>
+                    <option value="Petrol/Hybrid">Petrol/Hybrid</option>
+                    <option value="Petrol/Ethanol">Petrol/Ethanol</option>
+                    <option value="Petrol/Cng">Petrol/Cng</option>
+                    <option value="Diesel/Hybrid">Diesel/Hybrid</option>
+                </select>
+            </div>
+
+            <input type="submit" value="Predict">
+        </form>
+
+        <div class="center-container">
+            <a href="/analytics" class="button button-small">View Analytics</a>
+        </div>
+    </div>
+
+    <script>
+        function updateMonthOptions() {
+            const yearSelect = document.getElementById('year');
+            const monthSelect = document.getElementById('month');
+            const selectedYear = yearSelect.value;
+
+            // Clear existing options
+            monthSelect.innerHTML = '';
+
+            // Full year options
+            const fullYearMonths = [
+                { value: "", text: '--Select--' },
+                { value: 1, text: 'January' },
+                { value: 2, text: 'February' },
+                { value: 3, text: 'March' },
+                { value: 4, text: 'April' },
+                { value: 5, text: 'May' },
+                { value: 6, text: 'June' },
+                { value: 7, text: 'July' },
+                { value: 8, text: 'August' },
+                { value: 9, text: 'September' },
+                { value: 10, text: 'October' },
+                { value: 11, text: 'November' },
+                { value: 12, text: 'December' }
+            ];
+
+            // Limited to Jan to June
+            const halfYearMonths = [
+                { value: "", text: '--Select--' },
+                { value: 1, text: 'January' },
+                { value: 2, text: 'February' },
+                { value: 3, text: 'March' },
+                { value: 4, text: 'April' },
+                { value: 5, text: 'May' },
+                { value: 6, text: 'June' }
+            ];
+
+            let months = selectedYear === '2024' ? fullYearMonths : halfYearMonths;
+
+            // Populate the month select
+            months.forEach(month => {
+                let option = document.createElement('option');
+                option.value = month.value;
+                option.text = month.text;
+                monthSelect.add(option);
+            });
+        }
+
+        // Initialize the month options on page load
+        window.onload = updateMonthOptions;
+    </script>
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics - Vehicle Registration Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #1f1f1f, #292929);
+        }
+
+        h1 {
+            color: #e0e0e0;
+            font-size: 2.5rem;
+            margin: 20px 0;
+            text-align: center;
+            background: linear-gradient(45deg, #6200ea, #03dac6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            padding: 20px;
+            background-color: #1e1e1e;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            margin-top: 20px;
+        }
+
+        .chart-container {
+            margin-bottom: 30px;
+        }
+
+        .chart-container img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            text-decoration: none;
+            background-color: #03dac6;
+            color: #121212;
+            font-weight: bold;
+            font-size: 1rem;
+            border-radius: 4px;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #018786;
+        }
+
+        .button-small {
+            font-size: 0.9rem;
+            background-color: #6200ea;
+            color: #ffffff;
+        }
+
+        .button-small:hover {
+            background-color: #3700b3;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Analytics Dashboard</h1>
+        <div class="container">
+            <div class="chart-container">
+                <h2>Correlation Heatmap</h2>
+                <img src="{{ url_for('static', filename='heatmap.png') }}" alt="Correlation Heatmap">
+            </div>
+            <div class="chart-container">
+                <h2>Rank Distribution of Vehicle Registrations</h2>
+                <img src="{{ url_for('static', filename='rank_distribution.png') }}" alt="Rank Distribution of Vehicle Registrations">
+            </div>
+            <div class="chart-container">
+                <h2>Vehicle Registration Score Distribution</h2>
+                <img src="{{ url_for('static', filename='score_distribution.png') }}" alt="Vehicle Registration Score Distribution">
+            </div>
+            <div class="chart-container">
+                <h2>Yearly Registrations Analysis</h2>
+                <img src="{{ url_for('static', filename='yearly_registrations.png') }}" alt="Yearly Registrations Analysis">
+            </div>
+            <div class="chart-container">
+                <h2>Monthly Registrations Analysis</h2>
+                <img src="{{ url_for('static', filename='monthly_registrations.png') }}" alt="Monthly Registrations Analysis">
+            </div>
+            <div class="chart-container">
+                <h2>Office Code vs Vehicle Registrations</h2>
+                <img src="{{ url_for('static', filename='office_code_registrations.png') }}" alt="Office Code vs Vehicle Registrations">
+            </div>
+            <div class="chart-container">
+                <h2>Fuel Type vs Vehicle Registrations</h2>
+                <img src="{{ url_for('static', filename='fuel_type_registrations.png') }}" alt="Fuel Type vs Vehicle Registrations">
+            </div>
+            <div class="chart-container">
+                <h2>Actual vs Predicted Registrations</h2>
+                <img src="{{ url_for('static', filename='actual_vs_predicted.png') }}" alt="Actual vs Predicted Registrations">
+            </div>
+            <div class="chart-container">
+                <h2>Feature Importance (Random Forest)</h2>
+                <img src="{{ url_for('static', filename='feature_importances.png') }}" alt="Feature Importance (Random Forest)">
+            </div>
+            <a href="/" class="button button-small">Back to Home</a>
+        </div>
+    </div>
+</body>
+</html>
