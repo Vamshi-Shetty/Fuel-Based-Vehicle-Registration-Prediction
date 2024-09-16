@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestRegressor
 app = Flask(__name__)
 
 # Load and preprocess data
-df = pd.read_csv('D://PES/SEM 2/AIML/AIML Project/Fuel based vehicle classification/Fuel based classification filtered.csv')
+df = pd.read_csv('Fuel based classification filtered.csv')
 df['date'] = pd.to_datetime(df['date'])
 df['year'] = df['date'].dt.year
 df['month'] = df['date'].dt.month
